@@ -4,9 +4,10 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://serhii-bielik.github.io/fm-product-preview-card-component/)
 - Frontend Mentor - [@serhii-bielik](https://www.frontendmentor.io/profile/serhii-bielik)
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./screenshot-desktop.png)
+![](./screenshot-mobile.png)
